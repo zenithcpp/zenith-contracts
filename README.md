@@ -123,5 +123,6 @@ Active proof-of-concept. Escrow contract lifecycle implemented and verified. Loa
 
 ## License
 
-Apache
-BSL
+##Apache
+
+##BSL
