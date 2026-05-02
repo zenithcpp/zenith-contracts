@@ -128,4 +128,7 @@ APACHE
 BSL
 
 
-## Bitcoin Timestamped on 2026.02.02
+## Provenance
+
+This project has been cryptographically timestamped via [OpenTimestamps](https://opentimestamps.org) and anchored to the Bitcoin blockchain. The timestamp proves this work existed in its current form prior to any future claims. 
+The `.ots` proof file is included in this repository.
