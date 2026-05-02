@@ -1,0 +1,25 @@
+Business Source License 1.1
+
+Licensor:             zenithcpp
+Licensed Work:        Zenith Contracts — (c) 2026 zenithcpp
+Additional Use Grant: You may make non-production use of the Licensed Work.
+                      Production use requires a separate commercial license
+                      from the Licensor.
+Change Date:          May 2, 2030
+Change License:       Apache License, Version 2.0
+
+Terms
+
+The Licensor grants you the right to copy, modify, create derivative works,
+redistribute, and make non-production use of the Licensed Work.
+
+On the Change Date (May 2, 2030), the Licensed Work will automatically
+convert to the Apache License, Version 2.0, and the restrictions above
+will terminate.
+
+Any production or commercial use of the Licensed Work prior to the Change
+Date requires a commercial license from the Licensor.
+
+THE LICENSED WORK IS PROVIDED "AS IS". LICENSOR HEREBY DISCLAIMS ALL
+WARRANTIES AND CONDITIONS, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
